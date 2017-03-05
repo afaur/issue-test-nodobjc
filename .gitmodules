@@ -1,0 +1,4 @@
+[submodule "NodObjC"]
+	path = deps/NodObjC
+	url = https://github.com/afaur/NodObjC
+	branch = issue-95

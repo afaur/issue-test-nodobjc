@@ -1,0 +1,6 @@
+PID 19393 received SIGSEGV for address: 0x656d697458
+0   segfault-handler.node               0x00000001042071d8 _ZL16segfault_handleriP9__siginfoPv + 280
+1   libsystem_platform.dylib            0x00007fffe60fabba _sigtramp + 26
+2   ???                                 0x00007fff5fbfd360 0x0 + 140734799795040
+3   ffi_bindings.node                   0x000000010421f5e4 ffi_call_unix64 + 76
+4   ???                                 0x000000010502e7d8 0x0 + 4379043800
